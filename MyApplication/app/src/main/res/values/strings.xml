@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string-array name="opsi_array">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
